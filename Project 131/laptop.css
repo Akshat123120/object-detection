@@ -18,5 +18,5 @@ canvas{
     border-radius: 10px;
 }
 #back{
-    text-align: end;
+    right: 100px;
 }
